@@ -1,7 +1,7 @@
 package org.devops
 
 class tools {
-    def PrintMes(string content){
+    def PrintMes(String content){
         println(content)
     }
 }
