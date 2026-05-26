@@ -1,7 +1,8 @@
 package org.devops
 
-class tools {
-    def PrintMes(String content){
+class Tools implements Serializable {
+
+    def PrintMes(String content) {
         println(content)
     }
 }
