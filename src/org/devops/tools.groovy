@@ -1,5 +1,7 @@
 package org.devops
 
-def PrintMes(content){
-    println("${content}")
+class tools {
+    def PrintMes(string content){
+        println(content)
+    }
 }
